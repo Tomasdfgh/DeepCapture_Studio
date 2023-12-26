@@ -1,10 +1,13 @@
-# Deep Capture Studio
+# DeepCapture Studio
 
 ## Introduction
-Welcome to Deep Capture Studio, a software application designed to seamlessly integrate computer vision models into real-time webcam captures. Built using the powerful combination of Tkinter for the graphical user interface and PyTorch for deep learning capabilities, Deep Capture Studio brings an intuitive and interactive experience for users to upload their model and test its viability.
+Welcome to DeepCapture Studio, a software application designed to seamlessly integrate computer vision models into real-time webcam captures. Built using the powerful combination of Tkinter for the graphical user interface and PyTorch for deep learning capabilities, DeepCapture Studio brings an intuitive and interactive experience for users to upload their model and test its viability. Deep
 
 #### Executable Link:
 DeepCapture Studio executable file: [link]
+
+#### AutoConvNet Repository Link:
+Repository Link: [link]
 
 #### Framework and Libraries Used:
 - tkinter: GUI toolkit for creating windows and interactive elements.
@@ -37,7 +40,7 @@ DeepCapture Studio executable file: [link]
 
     Once this step is done and correctly configured, the model will begin to infer data. If you have incorrectly indentified anything, DeepCapture will let you know. It is also noteoworthy that if you trained your model on all grey scaled images (channel size of 1), DeepCapture will automatically greyscale the feed that is being passed into the model as well.
   
-4. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
+4. **Real-Time Inference:** Once everything else is set up, DeepCapture Studio will return the output of the model once every .25 seconds.
    
    ![gif_before_reduced](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/819b1e58-cd2f-4c97-a47a-3df6815ca5da)
 
@@ -49,4 +52,4 @@ DeepCapture Studio executable file: [link]
     After I have loaded up an age detection model that I have built using AutoConvNet, and the model has started inferring data, I can click on display image to see waht the model is seeing as the image that it is passing in to get my age. 
 
 ## Target Audience:
-Deep Capture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, Deep Capture Studio provides a user-friendly platform for seamless integration and immediate results.
+DeepCapture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, DeepCapture Studio provides a user-friendly platform for seamless integration and immediate results.
