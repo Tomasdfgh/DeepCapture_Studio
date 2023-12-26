@@ -7,7 +7,7 @@ Welcome to DeepCapture Studio, a software application designed to seamlessly int
 DeepCapture Studio executable file: [link]
 
 #### AutoConvNet Repository Link:
-Repository Link: [link]
+Repository Link: [[AutoConvNet]](https://github.com/Tomasdfgh/AutoConvNet)
 
 #### Framework and Libraries Used:
 - tkinter: GUI toolkit for creating windows and interactive elements.
