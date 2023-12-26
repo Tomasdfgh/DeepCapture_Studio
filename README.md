@@ -41,8 +41,12 @@ DeepCapture Studio executable file: [link]
    
    ![gif_before_reduced](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/819b1e58-cd2f-4c97-a47a-3df6815ca5da)
 
-    The GIF above is showing the data inference of a classification model that predicts numbers from grey scaled images
-   
+    The GIF above is showing the data inference of a classification model that predicts numbers from grey scaled images that I have built using AutoConvNet. I will upload this model into this repository so you can play with it yourself.
+
+5. **Display what the Model sees:** When the model has begin to infer data, you have the option to display what the model is seeing.
+
+   ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/7de99391-005c-4033-ad87-7954952d32bf)
+    After I have loaded up an age detection model that I have built using AutoConvNet, and the model has started inferring data, I can click on display image to see waht the model is seeing as the image that it is passing in to get my age. 
 
 ## Target Audience:
 Deep Capture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, Deep Capture Studio provides a user-friendly platform for seamless integration and immediate results.
