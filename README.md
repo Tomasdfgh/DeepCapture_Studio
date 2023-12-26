@@ -38,6 +38,10 @@ DeepCapture Studio executable file: [link]
     Once this step is done and correctly configured, the model will begin to infer data. If you have incorrectly indentified anything, DeepCapture will let you know. It is also noteoworthy that if you trained your model on all grey scaled images (channel size of 1), DeepCapture will automatically greyscale the feed that is being passed into the model as well.
   
 4. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
+   https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/63a55642-5d0d-4b7b-aa6e-9e96a93a1fb9
+
+
+   
 
 ## Target Audience:
 Deep Capture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, Deep Capture Studio provides a user-friendly platform for seamless integration and immediate results.
