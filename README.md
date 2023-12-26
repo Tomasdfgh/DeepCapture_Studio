@@ -24,11 +24,14 @@ DeepCapture Studio executable file: [link]
 ## **How it Works:**
 1. **Load Model:** Load your PyTorch TorchScript Trace model using the straightforward interface.
   ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/a410df7c-a759-4c58-80a5-d495370713dd)
-  You can load the model using the load model button, only torchscript models (.pt) are accepted. If you haven't load any models yet the notification on the bottom right will let you know.
 
-2. **Choose Model Type:** Choose your model type, either a classification or regression model.
-3. **Configure Dimensions:** Dynamically set image dimensions and number of channels that the model accepts.
-4. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
+    You can load the model using the load model button, only torchscript models (.pt) are accepted. If you haven't load any models yet the notification on the bottom right will let you know.
+
+3. **Choose Model Type:** Choose your model type, either a classification or regression model.
+  ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/2295a5aa-be43-45e3-9b92-21dae071216d)
+
+4. **Configure Dimensions:** Dynamically set image dimensions and number of channels that the model accepts.
+5. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
 
 ## Target Audience:
 Deep Capture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, Deep Capture Studio provides a user-friendly platform for seamless integration and immediate results.
