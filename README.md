@@ -1,7 +1,7 @@
 # DeepCapture Studio
 
 ## Introduction
-Welcome to DeepCapture Studio, a software application designed to seamlessly integrate computer vision models into real-time webcam captures. Built using the powerful combination of Tkinter for the graphical user interface and PyTorch for deep learning capabilities, DeepCapture Studio brings an intuitive and interactive experience for users to upload their model and test its viability. Deep
+Welcome to DeepCapture Studio, a software application designed to seamlessly integrate computer vision models into real-time webcam captures. Built using the powerful combination of Tkinter for the graphical user interface and PyTorch for deep learning capabilities, DeepCapture Studio brings an intuitive and interactive experience for users to upload their model and test its viability. DeepCapture is built as a complimentary project to AutoConvNet, which is a software that generates CNN computer vision models completely without code. I will include the link to AutoConvNet Repository below. As a user, you can create any type of CNN models that you want using AutoConvNet, and test it here in DeepCapture!
 
 #### Executable Link:
 DeepCapture Studio executable file: [link]
@@ -49,7 +49,7 @@ Repository Link: [link]
 5. **Display what the Model sees:** When the model has begin to infer data, you have the option to display what the model is seeing.
 
    ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/7de99391-005c-4033-ad87-7954952d32bf)
-    After I have loaded up an age detection model that I have built using AutoConvNet, and the model has started inferring data, I can click on display image to see waht the model is seeing as the image that it is passing in to get my age. 
+    After I have loaded up an age detection model that I have built using AutoConvNet, and the model has started inferring data, I can click on display image to see what the model is seeing as the image that it is passing in to get my age. 
 
 ## Target Audience:
 DeepCapture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, DeepCapture Studio provides a user-friendly platform for seamless integration and immediate results.
