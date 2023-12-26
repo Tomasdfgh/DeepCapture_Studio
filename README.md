@@ -35,7 +35,7 @@ DeepCapture Studio executable file: [link]
 3. **Configure Dimensions:** Dynamically set image dimensions and number of channels that the model accepts.
   ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/dead6d98-3004-4af2-a3ae-4c35630b579c)
 
-  Once this step is done and correctly configured, the model will begin to infer data. If you have incorrectly indentified anything, DeepCapture will let you know. It is also noteoworthy that if you trained your model on all grey scaled images (channel size of 1), DeepCapture will automatically greyscale the feed that is being passed into the model as well.
+    Once this step is done and correctly configured, the model will begin to infer data. If you have incorrectly indentified anything, DeepCapture will let you know. It is also noteoworthy that if you trained your model on all grey scaled images (channel size of 1), DeepCapture will automatically greyscale the feed that is being passed into the model as well.
   
 4. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
 
