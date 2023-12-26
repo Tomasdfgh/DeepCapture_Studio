@@ -27,11 +27,17 @@ DeepCapture Studio executable file: [link]
 
     You can load the model using the load model button, only torchscript models (.pt) are accepted. If you haven't load any models yet the notification on the bottom right will let you know.
 
-3. **Choose Model Type:** Choose your model type, either a classification or regression model.
+2. **Choose Model Type:** Choose your model type, either a classification or regression model.
   ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/2295a5aa-be43-45e3-9b92-21dae071216d)
 
-4. **Configure Dimensions:** Dynamically set image dimensions and number of channels that the model accepts.
-5. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
+    After you have loaded the model, you can select the model type. Either regression or classifcation. If you have have not done this step yet, the notification on the bottom right will inform you so. 
+
+3. **Configure Dimensions:** Dynamically set image dimensions and number of channels that the model accepts.
+  ![image](https://github.com/Tomasdfgh/DeepCapture_Studio/assets/86145397/dead6d98-3004-4af2-a3ae-4c35630b579c)
+
+  Once this step is done and correctly configured, the model will begin to infer data. If you have incorrectly indentified anything, DeepCapture will let you know. It is also noteoworthy that if you trained your model on all grey scaled images (channel size of 1), DeepCapture will automatically greyscale the feed that is being passed into the model as well.
+  
+4. **Real-Time Inference:** Once everything else is set up, Deep Capture Studio will return the output of the model once every .25 seconds.
 
 ## Target Audience:
 Deep Capture Studio is ideal for developers, researchers, and enthusiasts looking to experiment with computer vision models in a practical, real-world setting. Whether you're exploring image classification or regression, Deep Capture Studio provides a user-friendly platform for seamless integration and immediate results.
