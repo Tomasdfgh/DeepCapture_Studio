@@ -4,7 +4,7 @@
 Welcome to DeepCapture Studio, a software application designed to seamlessly integrate computer vision models into real-time webcam captures. Built using the powerful combination of Tkinter for the graphical user interface and PyTorch for deep learning capabilities, DeepCapture Studio brings an intuitive and interactive experience for users to upload their model and test its viability. DeepCapture is designed to complement AutoConvNet, an innovative software that enables the generation of CNN computer vision models without the need for coding. You can explore the capabilities of AutoConvNet, linked below, to effortlessly create diverse CNN models. DeepCapture serves as a testing ground where you can evaluate and interact with the models generated using AutoConvNet.
 
 #### Executable Link:
-DeepCapture Studio executable file: [link]
+DeepCapture Studio executable file: [.exe link](https://drive.google.com/file/d/1vXxgU3ERI432N0iloU1Nc6eG7P-L57rh/view?usp=sharing)
 
 #### AutoConvNet Repository Link:
 Repository Link: [[AutoConvNet]](https://github.com/Tomasdfgh/AutoConvNet)
